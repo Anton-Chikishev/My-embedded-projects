@@ -9,7 +9,7 @@
 #ifndef LCD1602WIRE4_H_
 #define LCD1602WIRE4_H_
 
-//Прототипы функций
+//РџСЂРѕС‚РѕС‚РёРїС‹ С„СѓРЅРєС†РёР№
 void sendbyte_to_LCD(unsigned char byte, unsigned char RS);
 void LCD_ini(void);
 void setpos_to_LCD(unsigned char X, unsigned char Y);
